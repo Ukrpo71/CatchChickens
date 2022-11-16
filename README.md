@@ -1,5 +1,5 @@
 # Privacy Policy for Catch Chickens
-This app is provided by KontantinGames at no cost and is intended for use as is.
+This app is provided at no cost and is intended for use as is.
 # Information Collection and Use
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 Link to privacy policy of third-party service providers used by the app
